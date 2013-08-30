@@ -1,0 +1,10 @@
+{
+  "name": "google-js-api",
+  "version": "latest",
+  "dependencies": {
+  },
+  "scripts": [
+    "index.js",
+    "lib/index.js"
+  ]
+}
