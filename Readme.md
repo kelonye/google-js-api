@@ -7,6 +7,6 @@ Usage
 ---
 
 ```javascript
-require 'google-js-api'
+require('google-js-api');
 ```
 
